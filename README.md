@@ -28,8 +28,6 @@ Feel free to reuse my setup in your smart home.
 - D-Link DGS-1210-24 switch
 - 2 x Xiaomi Router/Access Point (fallback)
 
-considering switching to Ubiquiti hardware
-
 ## Z-Wave
 
 - Aeon Labs Z-Stick S2
